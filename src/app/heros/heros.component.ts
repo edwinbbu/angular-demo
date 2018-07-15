@@ -9,7 +9,7 @@ import { Hero } from './hero';
 export class HerosComponent implements OnInit {
   hero: Hero = {
     id: 1,
-    name: 'Windstorm'
+    name: 'Name'
   };
   constructor() { }
 
